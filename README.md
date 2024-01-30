@@ -5,8 +5,8 @@
 Smart Move Crystal Quest is an immersive and tactical puzzle-based board game crafted using Python and the Pygame library. Players delve into a dynamic universe of gemstones and crystals, where strategic placements on the board trigger chain reactions and demand clever maneuvers to outsmart opponents.
 
 *TechStack Used:*
-
-Python
+- Language: Python
+- Library: Pygame
 
 ## Key Features:
 
@@ -42,11 +42,6 @@ game.py: Core script featuring the game loop, player interactions, and Pygame se
 a1_partd.py: Module for managing overflow logic.
 a1_partc.py: Module for implementing a Queue data structure.
 player1.py, player2.py: Modules housing AI logic for Player 1 and Player 2, respectively.
-
-## Development Stack:
-- Language: Python
-- Library: Pygame
-- Modules: a1_partd, a1_partc, player1, player2
 
 ## Future Enhancements:
 - Multiplayer Online Mode
