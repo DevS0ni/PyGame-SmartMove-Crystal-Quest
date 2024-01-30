@@ -1,1 +1,1 @@
-# PyGame - SmartMove Crystal Quest
+# PyGame - SmartMove Crystal Quest Game
